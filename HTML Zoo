@@ -1,0 +1,86 @@
+<head>
+
+</head>
+<body>
+     <h1>
+        Zoo Animals: Facts and Behaviors.
+     </h1>
+     <!--Dear Eliot:Charmander is superior to Squirtle. Please don't fail me.-->
+     <h2>
+        Bears
+        <br>
+        <img src="https://media.npr.org/assets/img/2023/10/11/grazer-fat-bear-week_wide-c2712fb8a10b39120ba12360771344d11eedd429-s600-c85.webp" width="200" alt="Bear">
+        <h3>
+            <li>Ollie</li>
+                <section style="text-indent: 25px; color: red;"></style>
+                    Loves fish.</section>
+            <li>Mona</li>
+                <article style="text-indent: 25px; color: red;"></style>
+                    Likes to wrestle.</article>
+            <p><a href="https://www.worldanimalprotection.us/blogs/5-facts-about-bears">Bear Facts</a></p>
+        </h3>
+        <!--Changed section style-->
+    </h2>
+    <h2>
+        Giraffes
+        <br>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Giraffe_Mikumi_National_Park.jpg/220px-Giraffe_Mikumi_National_Park.jpg" width="200" alt="Giraffes">
+        <h3>
+            <li>Frankie</li>
+               <section style="text-indent: 25px; color: red;"></style>
+                    Has the worlds longest neck.</section>
+            <li>Coconut</li>
+               <article style="text-indent: 25px; color: red;"></style>
+                    Got her name from the shape of her spots.</article>
+            <p><a href="https://giraffeconservation.org/facts/fascinating-giraffe-facts/">Giraffe Facts</a></p>
+        </h3>
+    </h2>
+    <h2>
+        Lions
+        <br>
+        <img src="https://i.guim.co.uk/img/media/19e048685db029092e5999e0b393e8318dacf87b/130_238_4779_2867/master/4779.jpg?width=620&dpr=1&s=none" width="200" alt="Lion">
+        <h3>
+            <li>Mella</li>
+            <section style="text-indent: 25px; color: red;">
+                    Enjoys sunbathing</section>
+            <li>Karl</li>
+            <section style="text-indent: 25px; color: red;">
+                    Scares children</section>
+            <p><a href="https://www.wwf.org.uk/learn/fascinating-facts/lions">Lion Facts</a></p>
+        </h3>
+    </h2>
+    <h2>
+        Monkeys
+        <br>
+        <img src="https://pasa.org/wp-content/uploads/2021/06/Vervet-Monkey-Foundation-credit-Kyle-.jpg" width="200" alt="Monkey">
+        <h3>
+            <li>Cookie</li>
+            <section style="text-indent: 25px; color: red;">
+                    Is the smallest monkey at the zoo.</section>
+            <li>Earl</li>
+            <section style="text-indent: 25px; color: red;">
+                    Doesn't like the Dixie Chicks</section>
+            <li>Banana Pudding</li>
+            <section style="text-indent: 25px; color: red;">
+                    Doesn't like pudding</section>
+
+        </h3>
+        <!--If you dont know, the Dixie Chicks wrote a song called Earl had to die-->
+    </h2>
+    <h2>
+        Alligators
+        <br>
+        <img src="https://www.shreveporttimes.com/gcdn/presto/2023/05/31/PLAL/7868e919-4aca-415f-94c7-f1041a235ed7-Louisiana_alligator.jpg?width=660&height=495&fit=crop&format=pjpg&auto=webp" width="200" alt="Alligators">
+        <h3>
+            <li>Wren</li>
+            <section style="text-indent: 25px; color: red;">
+                    Has anger issues</section>
+            <li>Aspen</li>
+            <section style="text-indent: 25px; color: red;">
+                Knew an alligator that could sing</section>
+            <li>Mika</li>
+            <section style="text-indent: 25px; color: red;">
+                Thinks she can sing</section>
+        </h3>
+    </h2>
+</body>
