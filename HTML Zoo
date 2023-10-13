@@ -3,10 +3,12 @@
 </head>
 <body>
      <h1>
+        <section style="text-align: center;"</section>
         Zoo Animals: Facts and Behaviors.
+                
      </h1>
      <!--Dear Eliot:Charmander is superior to Squirtle. Please don't fail me.-->
-     <h2>
+     <h2> 
         Bears
         <br>
         <img src="https://media.npr.org/assets/img/2023/10/11/grazer-fat-bear-week_wide-c2712fb8a10b39120ba12360771344d11eedd429-s600-c85.webp" width="200" alt="Bear">
